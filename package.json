@@ -1,0 +1,29 @@
+{
+  "name": "fastify_market",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olive0yur/fastify_market.git"
+  },
+  "author": "yuriy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olive0yur/fastify_market/issues"
+  },
+  "homepage": "https://github.com/olive0yur/fastify_market#readme",
+  "dependencies": {
+    "@fastify/jwt": "^8.0.1",
+    "@fastify/routes": "^5.1.0",
+    "@prisma/client": "^5.14.0",
+    "dotenv": "^16.4.5",
+    "fastify": "^4.27.0"
+  },
+  "devDependencies": {
+    "prisma": "^5.14.0"
+  }
+}
